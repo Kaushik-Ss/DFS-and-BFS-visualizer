@@ -19,7 +19,7 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
-  Hi 👋, Myself Navin Praanav and this wibsite is about depth first search and breath first search simulator.
+  Hi 👋, Kaushik here and this wibsite is about depth first search and breath first search simulator.
   
   
 TECHNOLOGIES
