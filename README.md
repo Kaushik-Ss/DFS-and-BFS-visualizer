@@ -1,4 +1,4 @@
-# dfs and bfs Simulator
+# DFS and BFS Simulator
  
 CONTENTS OF THIS FILE
 ---------------------
@@ -8,8 +8,8 @@ CONTENTS OF THIS FILE
  * Project Description
    * Main Page
    * Given Graph
-   * Bfs Ouput
-   * Dfs Ouput
+   * BFS Ouput
+   * DFS Ouput
 * How to Run the Project
 * To Be Noted
 * Contributors 
@@ -106,4 +106,4 @@ CONTRIBUTORS
 
 CREDITS
 ------------
-A special shout-out to [**Kaushik**](https://github.com/Kaushik-Ss) for working with me in this project.
+A special shout-out to [**Navin Praanav**](https://github.com/Navin-Praanav/) for working with me in this project.
